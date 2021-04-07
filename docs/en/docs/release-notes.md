@@ -2,6 +2,7 @@
 
 ## Latest Changes
 
+* [pull] master from tiangolo:master. PR [#2](https://github.com/jinzaizhichi/fastapi/pull/2) by [@pull[bot]](https://github.com/apps/pull).
 * 👥 Update FastAPI People. PR [#3031](https://github.com/tiangolo/fastapi/pull/3031) by [@github-actions[bot]](https://github.com/apps/github-actions).
 * 🌐 Add Chinese translation for Tutorial - Debugging. PR [#2737](https://github.com/tiangolo/fastapi/pull/2737) by [@blt232018](https://github.com/blt232018).
 ### Fixes
